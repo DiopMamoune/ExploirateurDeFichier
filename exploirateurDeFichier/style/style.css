@@ -1,0 +1,25 @@
+.card-heading{
+    background:#3367d7;
+    color: white;
+    font-size: 20px;
+    font-weight: bolder;
+    height: 50px;
+}
+
+#icones{
+    left: 100px;
+}
+#carInterne1{
+    height: 450px;
+    /* margin-top:-42px; */
+    margin-left: -20px;
+    background: #fafafa;
+    
+    
+}
+.card-body{
+    background: #f6f6f6;
+}
+/* *{
+    overflow: hidden;
+} */
